@@ -201,6 +201,10 @@ letter-spacing: 0.02em;
     background-color: #F4F4FD;
 
 }
+.team-icon {
+    display: flex;
+    align-items: center;
+}
 .team-list {
     display: flex;
     gap: 24px
