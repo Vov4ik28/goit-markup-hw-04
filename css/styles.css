@@ -266,7 +266,7 @@ letter-spacing: 0.02em;
 .icon-link:hover {
     background-color: #404BBF;
 }
-.icon-link:active {
+.icon-link:focus {
    background-color: #404bbf;
 }
 .icon-icon {
