@@ -442,16 +442,17 @@ font-style: normal;
 font-weight: 500;
 line-height: 24px; /* 150% */
 letter-spacing: 0.32px;
+margin-bottom: 16px;
+}
+.footer-container {
+    margin-right: 120px;
+}
 
-}
-.footer-icon {
-    margin-left: 120px;
-}
 .icon-list-footer {
     display: flex;
     justify-content: center;
     gap: 16px;
-    margin-top: 16px;
+
 
 }
 .icon-link-footer {
@@ -466,4 +467,7 @@ letter-spacing: 0.32px;
 }
 .icon-link-footer:hover {
     background-color: #31D0AA;
+}
+.icon-link-footer:focus {
+    background-color: #31d0aa;
 }
